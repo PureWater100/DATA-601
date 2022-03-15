@@ -1,1 +1,1 @@
-## Folder for Class Assignments
+## Folder For Class Assignments
